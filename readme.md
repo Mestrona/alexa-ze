@@ -1,6 +1,7 @@
-Inofficial Renault ZE Alexa Skill
-=================================
+Inofficial Renault Z.E. (Zoe) Alexa Skill
+=========================================
 
+> Frage mein Elektroauto nach der Reichweite.
 
 Acknowledgements
 
